@@ -1,1 +1,3 @@
-# COVID19IndianRegionalLanguagesTweetsDataset
+# COVID-19 Indian Regional Languages Tweets Dataset
+
+The repository contains a collection of Indian regional languages tweets IDs related to novel coronavirus COVID-19. The dataset contains Tweets ids starting from February 2020 to July 2020. The Twitter search API was used to gather real-time tweets that contained specific keywords in the 12 languages. The languagues for which dataset is provided are Hindi, Tamil, Urdu, Marathi, Telugu, Gujarati, Kannada, Bengali, Oriya, Malayalam, Punjabi, Sindhi in the decreasing order of number of tweets. To comply with [Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), only ids of the tweets are provided in this dataset which can be used for non-commercial research purpose only.
