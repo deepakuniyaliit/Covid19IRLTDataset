@@ -12,3 +12,10 @@ The repository contains a collection of Indian regional languages tweets IDs rel
 # Dataset Collection
 * All the tweets irrespective of any particular language were collected from February 2020 to July 2020 based on some keywords and hashtags which are provided in the file keywords.txt.
 * For retrieving, the full object of the tweet consider the following tools [Hydrator](https://github.com/DocNow/hydrator) and [twarc](https://github.com/DocNow/twarc).
+
+
+# Licensing
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).By using this dataset , you agree to the terms of the LICENSE, and to all [ Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite our paper: [IRLCovDatasetPaper]().
+
+# Contact
+If you have any feedback, suggestions or queries, please do reach out to deepakuniyal(AT)geu(dot)ac(dot)in
