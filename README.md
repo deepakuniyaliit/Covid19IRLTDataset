@@ -15,7 +15,7 @@ The repository contains a collection of Indian regional languages tweets IDs rel
 
 
 # Licensing
-This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).By using this dataset , you agree to the terms of the LICENSE, and to all [ Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite our paper: [IRLCovDatasetPaper]().
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).By using this dataset , you agree to the terms of the LICENSE, and to all [ Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite our paper: [https://arxiv.org/abs/2107.12360](https://arxiv.org/abs/2107.12360).
 
 # Contact
 If you have any feedback, suggestions or queries, please do reach out to deepakuniyal(AT)geu(dot)ac(dot)in
