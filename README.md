@@ -16,7 +16,7 @@ The repository contains a collection of Indian regional languages tweets IDs rel
 
 # Licensing
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).By using this dataset , you agree to the terms of the LICENSE, and to all [ Twitter’s Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite our papers: 
-* [IRLCov19: A Large COVID-19 Multilingual Twitter Dataset of Indian Regional Languages](https://arxiv.org/abs/2107.12360).
+* [IRLCov19: A Large COVID-19 Multilingual Twitter Dataset of Indian Regional Languages](https://arxiv.org/abs/2107.12360)
 * [Dense Vector Embedding Based Approach to Identify Prominent Disseminators From Twitter Data Amid COVID-19 Outbreak](https://ieeexplore.ieee.org/document/9444608)
 
 # Contact
